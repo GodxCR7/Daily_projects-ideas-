@@ -4,3 +4,4 @@
 3) 25/03/2026 - working on robot calibration
 4) 26/03/2026 - (read papers for elivation walking)
 5) 31/03/2026 - Deeplearning course
+6) 04/04/2026 - Making AI Voice calling Aent using python
