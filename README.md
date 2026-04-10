@@ -7,3 +7,4 @@
 6) 04/04/2026 - Making AI Voice calling Aent using python
 7) 07/04/2026 - Updating using Vapi + twlio + Custom prompt in python
 8) 08/04/2026 - ALmost completed the project
+9) 09/04/2026 - Continued working on my Humanoid Robot
