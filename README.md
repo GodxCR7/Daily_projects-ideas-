@@ -9,3 +9,4 @@
 8) 08/04/2026 - ALmost completed the project
 9) 09/04/2026 - Continued working on my Humanoid Robot
 10) 13/04/2026 - Continued with Deeplearning.ai - Agentic AI course
+11) 18/04/2026 - Continued with Humanoid Robot
