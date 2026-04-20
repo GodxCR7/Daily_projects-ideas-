@@ -10,3 +10,4 @@
 9) 09/04/2026 - Continued working on my Humanoid Robot
 10) 13/04/2026 - Continued with Deeplearning.ai - Agentic AI course
 11) 18/04/2026 - Continued with Humanoid Robot
+12) 20/04/2026 - updating the mcp servers
