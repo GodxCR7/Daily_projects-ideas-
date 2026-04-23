@@ -11,3 +11,4 @@
 10) 13/04/2026 - Continued with Deeplearning.ai - Agentic AI course
 11) 18/04/2026 - Continued with Humanoid Robot
 12) 20/04/2026 - updating the mcp servers
+13) 23/04/2026 - Robot walking, broke the servo motor while testing
