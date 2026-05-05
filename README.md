@@ -12,3 +12,4 @@
 11) 18/04/2026 - Continued with Humanoid Robot
 12) 20/04/2026 - updating the mcp servers
 13) 23/04/2026 - Robot walking, broke the servo motor while testing
+14) 05/05/2026 - Continue with chat gpt ai kit
